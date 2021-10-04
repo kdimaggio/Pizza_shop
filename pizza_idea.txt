@@ -13,3 +13,5 @@ Sausage
 Dough
 Tomato
 Sauce
+
+Vegetarian pizza
